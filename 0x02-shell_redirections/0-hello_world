@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo 'hello, world'
 =======
 echo 'hello,world' 
 >>>>>>> 2986a3420fb04e8d04e3a0fc78a9708182fc5fe7
+=======
+echo "Hello, World"
+>>>>>>> refs/remotes/origin/master
